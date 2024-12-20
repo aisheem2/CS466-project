@@ -90,9 +90,9 @@ def needleman_wunsch(X, Y):
     return X_aligned, Y_aligned
 
 # Example usage:
-X = "TGC"
-Y = "ACTGCAA"
-aligned_X, aligned_Y = hirschberg(X, Y)
-print("Aligned Sequences:")
-print(aligned_X)
-print(aligned_Y)
+# X = "TGC"
+# Y = "ACTGCAA"
+# aligned_X, aligned_Y = hirschberg(X, Y)
+# print("Aligned Sequences:")
+# print(aligned_X)
+# print(aligned_Y)
