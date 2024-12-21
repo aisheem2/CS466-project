@@ -1,6 +1,6 @@
 # CS466-project
 
-Hirschberg Algorithm for Local and Fitting Alignment 
+Hirschberg Algorithm for Local and Fitting Alignment - by Aishee Mondal and Chun Feng
 
 # How to run the code
 Run the script in the main.py file - and select the type of algorithm ("classic" and "space_efficient") using the `--type` argument. To decide if you want to run local or fitting alignment, choose the `--mode` argument and specify "local" and "fitting". To use one of the sample data texts, the argument `--data` with a number can be used (the default is "8"). Based on these choices, it runs the algorithm we have created in our space-efficient Hirscberg algorithm for fitting and local alignment in `space_efficient.py` or the classic versions in `classic.py` with the data chosen.
